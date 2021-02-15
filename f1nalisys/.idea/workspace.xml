@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73cc5432-ba97-4b59-964d-1bd06b24c3d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="df4d7f69-aecf-4003-a272-c56bbc26a8f8" />
+  <component name="ProjectId" id="1mNvAItU5RDxPE78XxXCNytPGMf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="f1nalisys" type="Python.DjangoServer" factoryName="Django server">
+      <module name="f1nalisys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="f1nalisys.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73cc5432-ba97-4b59-964d-1bd06b24c3d1" name="Default Changelist" comment="" />
+      <created>1609346717934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609346717934</updated>
+      <workItem from="1609346719167" duration="11819000" />
+      <workItem from="1609608324506" duration="7830000" />
+      <workItem from="1610029964616" duration="215000" />
+      <workItem from="1610128285899" duration="6901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1110" height="175" key="GridCell.Tab.0.bottom" timestamp="1610146196400">
+      <screen x="-2304" y="-282" width="2304" height="1274" />
+    </state>
+    <state width="1110" height="175" key="GridCell.Tab.0.bottom/0.22.1440.874/-2304.-282.2304.1274@-2304.-282.2304.1274" timestamp="1610146196400" />
+    <state width="1110" height="203" key="GridCell.Tab.0.bottom/0.22.1440.874/1440.-857.2304.1274@1440.-857.2304.1274" timestamp="1609507079548" />
+    <state width="1110" height="175" key="GridCell.Tab.0.bottom/0.22.1440.878/-2304.-282.2304.1270@-2304.-282.2304.1270" timestamp="1610030870905" />
+    <state width="1110" height="254" key="GridCell.Tab.0.bottom/0.22.1440.878/1440.-857.2304.1270@1440.-857.2304.1270" timestamp="1609347434038" />
+    <state width="1110" height="175" key="GridCell.Tab.0.center" timestamp="1610146196399">
+      <screen x="-2304" y="-282" width="2304" height="1274" />
+    </state>
+    <state width="1110" height="175" key="GridCell.Tab.0.center/0.22.1440.874/-2304.-282.2304.1274@-2304.-282.2304.1274" timestamp="1610146196399" />
+    <state width="1110" height="203" key="GridCell.Tab.0.center/0.22.1440.874/1440.-857.2304.1274@1440.-857.2304.1274" timestamp="1609507079547" />
+    <state width="1110" height="175" key="GridCell.Tab.0.center/0.22.1440.878/-2304.-282.2304.1270@-2304.-282.2304.1270" timestamp="1610030870904" />
+    <state width="1110" height="254" key="GridCell.Tab.0.center/0.22.1440.878/1440.-857.2304.1270@1440.-857.2304.1270" timestamp="1609347434035" />
+    <state width="1110" height="175" key="GridCell.Tab.0.left" timestamp="1610146196398">
+      <screen x="-2304" y="-282" width="2304" height="1274" />
+    </state>
+    <state width="1110" height="175" key="GridCell.Tab.0.left/0.22.1440.874/-2304.-282.2304.1274@-2304.-282.2304.1274" timestamp="1610146196398" />
+    <state width="1110" height="203" key="GridCell.Tab.0.left/0.22.1440.874/1440.-857.2304.1274@1440.-857.2304.1274" timestamp="1609507079547" />
+    <state width="1110" height="175" key="GridCell.Tab.0.left/0.22.1440.878/-2304.-282.2304.1270@-2304.-282.2304.1270" timestamp="1610030870903" />
+    <state width="1110" height="254" key="GridCell.Tab.0.left/0.22.1440.878/1440.-857.2304.1270@1440.-857.2304.1270" timestamp="1609347434034" />
+    <state width="1110" height="175" key="GridCell.Tab.0.right" timestamp="1610146196400">
+      <screen x="-2304" y="-282" width="2304" height="1274" />
+    </state>
+    <state width="1110" height="175" key="GridCell.Tab.0.right/0.22.1440.874/-2304.-282.2304.1274@-2304.-282.2304.1274" timestamp="1610146196400" />
+    <state width="1110" height="203" key="GridCell.Tab.0.right/0.22.1440.874/1440.-857.2304.1274@1440.-857.2304.1274" timestamp="1609507079548" />
+    <state width="1110" height="175" key="GridCell.Tab.0.right/0.22.1440.878/-2304.-282.2304.1270@-2304.-282.2304.1270" timestamp="1610030870905" />
+    <state width="1110" height="254" key="GridCell.Tab.0.right/0.22.1440.878/1440.-857.2304.1270@1440.-857.2304.1270" timestamp="1609347434036" />
+  </component>
+</project>
